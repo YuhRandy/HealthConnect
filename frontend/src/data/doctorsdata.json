@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Awa Fon",
+      "speciality": "Cardiology",
+      "ratings": 4.8,
+      "consultations": 1200,
+      "payPerConsultation": 5000,
+      "image": "https://picsum.photos/200/200?1"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Nkem Enow",
+      "speciality": "Dermatology",
+      "ratings": 4.5,
+      "consultations": 950,
+      "payPerConsultation": 4500,
+      "image": "https://picsum.photos/200/200?2"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Mbah Akwa",
+      "speciality": "Pediatrics",
+      "ratings": 4.7,
+      "consultations": 1100,
+      "payPerConsultation": 4800,
+      "image": "https://picsum.photos/200/200?3"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Ngozi Tanyi",
+      "speciality": "Orthopedics",
+      "ratings": 4.6,
+      "consultations": 1000,
+      "payPerConsultation": 5200,
+      "image": "https://picsum.photos/200/200?4"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Arrey Bate",
+      "speciality": "Neurology",
+      "ratings": 4.9,
+      "consultations": 1300,
+      "payPerConsultation": 5500,
+      "image": "https://picsum.photos/200/200?5"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Nfor Nkeng",
+      "speciality": "Gynecology",
+      "ratings": 4.4,
+      "consultations": 900,
+      "payPerConsultation": 4700,
+      "image": "https://picsum.photos/200/200?6"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Manka'a Fru",
+      "speciality": "Ophthalmology",
+      "ratings": 4.7,
+      "consultations": 1150,
+      "payPerConsultation": 4900,
+      "image": "https://picsum.photos/200/200?7"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Njie Mbua",
+      "speciality": "Psychiatry",
+      "ratings": 4.3,
+      "consultations": 850,
+      "payPerConsultation": 4600,
+      "image": "https://picsum.photos/200/200?8"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Tabe Ndifor",
+      "speciality": "Dentistry",
+      "ratings": 4.6,
+      "consultations": 1050,
+      "payPerConsultation": 5100,
+      "image": "https://picsum.photos/200/200?9"
+    },
+    {
+      "id": 10,
+      "name": "Dr. Ndeh Nkwenti",
+      "speciality": "General Surgery",
+      "ratings": 4.8,
+      "consultations": 1250,
+      "payPerConsultation": 5400,
+      "image": "https://picsum.photos/200/200?10"
+    }
+  ]
