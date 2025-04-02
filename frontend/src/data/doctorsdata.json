@@ -6,7 +6,7 @@
       "ratings": 4.8,
       "consultations": 1200,
       "payPerConsultation": 5000,
-      "image": "https://picsum.photos/200/200?1"
+      "image": "images/Awa.jpg"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "ratings": 4.5,
       "consultations": 950,
       "payPerConsultation": 4500,
-      "image": "https://picsum.photos/200/200?2"
+      "image": "images/Nkem.jpg"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "ratings": 4.7,
       "consultations": 1100,
       "payPerConsultation": 4800,
-      "image": "https://picsum.photos/200/200?3"
+      "image": "images/Mbah.jpg"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "ratings": 4.6,
       "consultations": 1000,
       "payPerConsultation": 5200,
-      "image": "https://picsum.photos/200/200?4"
+      "image": "images/Ngozi.jpg"
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "ratings": 4.9,
       "consultations": 1300,
       "payPerConsultation": 5500,
-      "image": "https://picsum.photos/200/200?5"
+      "image": "images/Arrey.jpg"
     },
     {
       "id": 6,
@@ -51,7 +51,7 @@
       "ratings": 4.4,
       "consultations": 900,
       "payPerConsultation": 4700,
-      "image": "https://picsum.photos/200/200?6"
+      "image": "images/Nfor.jpg"
     },
     {
       "id": 7,
@@ -60,7 +60,7 @@
       "ratings": 4.7,
       "consultations": 1150,
       "payPerConsultation": 4900,
-      "image": "https://picsum.photos/200/200?7"
+      "image": "images/Manka'a.jpg"
     },
     {
       "id": 8,
@@ -69,7 +69,7 @@
       "ratings": 4.3,
       "consultations": 850,
       "payPerConsultation": 4600,
-      "image": "https://picsum.photos/200/200?8"
+      "image": "images/Njie.jpg"
     },
     {
       "id": 9,
@@ -78,7 +78,7 @@
       "ratings": 4.6,
       "consultations": 1050,
       "payPerConsultation": 5100,
-      "image": "https://picsum.photos/200/200?9"
+      "image": "images/Tabe.jpg"
     },
     {
       "id": 10,
@@ -87,6 +87,6 @@
       "ratings": 4.8,
       "consultations": 1250,
       "payPerConsultation": 5400,
-      "image": "https://picsum.photos/200/200?10"
+      "image": "images/Ndeh.jpg"
     }
   ]

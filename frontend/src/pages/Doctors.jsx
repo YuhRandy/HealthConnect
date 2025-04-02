@@ -1,7 +1,7 @@
 import { useState } from "react";
 import DoctorCard from "../components/DoctorCard";
 import doctorsData from "../data/doctorsdata.json";
-
+// import UserList from "../components/UserList";
 const Doctors = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [filterSpeciality, setFilterSpeciality] = useState("");

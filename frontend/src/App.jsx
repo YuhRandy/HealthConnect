@@ -8,6 +8,8 @@ const Contact = React.lazy(() => import("./pages/Contact"));
 const Doctors = React.lazy(() => import("./pages/Doctors"));
 const Login = React.lazy(() => import("./pages/Login"));
 const SignUp = React.lazy(() => import("./pages/SignUp"));
+// const ChatPage = React.lazy(() => import("./pages/ChatPage"));
+const Payment = React.lazy(() => import("./pages/Payment"));
 const NotFound = React.lazy(() => import("./pages/NotFound"));
 
 function App() {
@@ -21,6 +23,8 @@ function App() {
           <Route path="/doctors" element={<Doctors />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<SignUp />} />
+          <Route path="/payment/:doctorId" element={<Payment />} />
+          {/* <Route path="/chat/:doctorId" element={<ChatPage />} /> */}
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Suspense>
